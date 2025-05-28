@@ -2,6 +2,9 @@
 
 A content-based music recommendation system built using Python. This project suggests similar songs based on a given track using cosine similarity of song features.
 
+**Kaggle DataSet Link**
+https://www.kaggle.com/datasets/notshrirang/spotify-million-song-dataset/data
+
 ## 🔧 Features
 
 - Content-based filtering using `sklearn`'s cosine similarity
@@ -29,9 +32,6 @@ pip install pandas scikit-learn joblib
 Run the App::
 python main.py
 streamlit run main.py
-
-![image](https://github.com/user-attachments/assets/6335d004-f40f-4389-8fea-e1977ce51042)
-
 
 
 
