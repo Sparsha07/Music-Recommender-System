@@ -30,8 +30,12 @@ pip install pandas scikit-learn joblib
 
 
 Run the App::
+pip install -r requirements.txt
 python main.py
 streamlit run main.py
+
+
+
 
 
 
